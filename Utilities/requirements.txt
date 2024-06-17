@@ -1,0 +1,12 @@
+selenium
+pytest
+pytest-bdd
+configparser
+allure-pytest
+behave
+allure-behave
+
+#this contains dependicies
+
+
+#run (pip3 install -r requirements.txt)

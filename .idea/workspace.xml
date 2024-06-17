@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39f2ba50-d415-450b-aa11-00a5695479c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AMAZON/.idea/AMAZON.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AmazonAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/.idea/Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HRM/.idea/HRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inteview practice/.idea/Inteview practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/.idea/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/basePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/cartPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/homePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/Pages/searchResult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/config_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning/tests/test_amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM/.idea/OrangeHRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python pracrtice projects/.idea/Python pracrtice projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANAS/.idea/SANAS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium-python-Hybrid_framework/.idea/Selenium-python-Hybrid_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swag/.idea/Swag.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagSuace/.idea/SwagSuace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagSuace/Pages/basePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwagSuace/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YoutubeDemo/.idea/YoutubeDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arun-motoori/.idea/arun-motoori.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../autom/.idea/autom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automation/.idea/automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../checking/.idea/checking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/droid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../droid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/.idea/python1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python1/test_scratch_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qafox/.idea/qafox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sampl/.idea/sampl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/valaxy/demo/DemoWorkshopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/valaxy/demo/controller/RepositoryDetailsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/valaxy/demo/AbstractTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/valaxy/demo/DemoWorkshopApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/valaxy/demo/RepositoryDetailsControllerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hzx3Z4o0rN35Igr1d7DyBq0D7P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/chethangopal/Desktop/AmazonAutomation"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f2ba50-d415-450b-aa11-00a5695479c3" name="Changes" comment="" />
+      <created>1718610508658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718610508658</updated>
+    </task>
+    <servers />
+  </component>
+</project>

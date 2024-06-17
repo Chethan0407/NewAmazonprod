@@ -1,0 +1,32 @@
+24-17-06 14:15:41 PM - ERROR - failed to take screenshot as :Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000104713a38 chromedriver + 4389432
+1   chromedriver                        0x000000010470c344 chromedriver + 4358980
+2   chromedriver                        0x0000000104328afc chromedriver + 281340
+3   chromedriver                        0x0000000104303aec chromedriver + 129772
+4   chromedriver                        0x0000000104390308 chromedriver + 705288
+5   chromedriver                        0x00000001043a3400 chromedriver + 783360
+6   chromedriver                        0x000000010435fed0 chromedriver + 507600
+7   chromedriver                        0x00000001043608a8 chromedriver + 510120
+8   chromedriver                        0x00000001046db3bc chromedriver + 4158396
+9   chromedriver                        0x00000001046dfe20 chromedriver + 4177440
+10  chromedriver                        0x00000001046c107c chromedriver + 4051068
+11  chromedriver                        0x00000001046e070c chromedriver + 4179724
+12  chromedriver                        0x00000001046b407c chromedriver + 3997820
+13  chromedriver                        0x00000001046fe0d4 chromedriver + 4301012
+14  chromedriver                        0x00000001046fe250 chromedriver + 4301392
+15  chromedriver                        0x000000010470bf3c chromedriver + 4357948
+16  libsystem_pthread.dylib             0x000000019ab8026c _pthread_start + 148
+17  libsystem_pthread.dylib             0x000000019ab7b08c thread_start + 8
+
+24-17-06 14:15:41 PM - INFO - Screenshot captured on failure: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-15-41.png
+24-17-06 14:17:11 PM - INFO - screenshot_saved: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-17-11.png
+24-17-06 14:17:11 PM - INFO - Screenshot captured on failure: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-17-11.png
+24-17-06 14:18:28 PM - INFO - screenshot_saved: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-18-28.png
+24-17-06 14:18:28 PM - INFO - Screenshot captured on failure: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-18-28.png
+24-17-06 14:23:14 PM - INFO - screenshot_saved: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-23-13.png
+24-17-06 14:23:14 PM - INFO - Screenshot captured on failure: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-23-13.png
+24-17-06 14:48:10 PM - INFO - screenshot_saved: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-48-09.png
+24-17-06 14:48:10 PM - INFO - Screenshot captured on failure: /Users/chethangopal/Desktop/AmazonAutomation/Logs/FailedTest_PageScreenshots/test_search_for_a_product_2024-06-17_14-48-09.png
